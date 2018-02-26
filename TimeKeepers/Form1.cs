@@ -21,7 +21,7 @@ namespace TimeKeepers
         public ushort DayOfWeek;
         public ushort Day;
         public ushort Hour;
-        public ushort Minute; // here
+        public ushort Minute;
         public ushort Second;
         public ushort Millisecond;
     };
